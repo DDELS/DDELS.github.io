@@ -3,14 +3,15 @@
 Hey, I am David D. and thank you for visiting my website!!
 
 ### About Me
-
--I am enrolled at NYIT and majoring in Computer Science with a focus of cyber security
-
--I enjoy my time with friends and family
-
--I believe that giving up is okay, but what isn't okay is never trying again.
-
 ```markdown
+
+* I am enrolled at NYIT and majoring in Computer Science with a focus of cyber security
+
+* I enjoy my time with friends and family
+
+* I believe that giving up is okay, but what isn't okay is never trying again.
+
+```
 Syntax highlighted code block
 
 # Header 1
@@ -26,7 +27,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
