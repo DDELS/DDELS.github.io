@@ -1,13 +1,14 @@
 ## Welcome 
 
-You can use the [editor on GitHub](https://github.com/DDELS/DDELS.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hey, I am David D. and thank you for visiting my website!!
 
-Whenever you c
- to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About Me
 
-### Markdown
+-I am enrolled at NYIT and majoring in Computer Science with a focus of cyber security
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-I enjoy my time with friends and family
+
+-I believe that giving up is okay, but what isn't okay is never trying again.
 
 ```markdown
 Syntax highlighted code block
