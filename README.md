@@ -5,7 +5,8 @@ Hey, I am David D. and thank you for visiting my website!!
 ### About Me
 ```markdown
 
-* I am enrolled at NYIT and majoring in Computer Science with a focus of cyber security
+* I am enrolled at NYIT and majoring in Computer Science
+ with a focus of cyber security
 
 * I enjoy my time with friends and family
 
