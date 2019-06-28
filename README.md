@@ -5,7 +5,8 @@ Hey, I am David D. and thank you for visiting my website!
 ### About Me
 ```markdown
 
-* I am enrolled at New York Institute of Technology (NYIT) and majoring in Computer Science with a focus of cyber security
+* I am going to New York Institute of Technology (NYIT) and majoring
+ in Computer Science with a focus of Cyber Security
 
 * 
 
@@ -18,13 +19,13 @@ Hey, I am David D. and thank you for visiting my website!
 
 
 
-## Why?
+### Why?
 
-*You may ask why I want to study in computer science?
+* I am studying in computer science with a focus of Cyber Security because it is very interesting how computers .
 
 
 
-### Header 3
+### Experince
 
 
 
