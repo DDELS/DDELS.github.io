@@ -8,21 +8,16 @@ Hey, I am David D. and thank you for visiting my website!
 * I am going to New York Institute of Technology (NYIT) and majoring
  in Computer Science with a focus of Cyber Security
 
-* 
+* I am a rising sophomore at NYIT  
 
-* 
-
-* 
-
-```
+* I have basic programming skills
 
 
 
 
 ### Why?
-
-* I am studying in computer science with a focus of Cyber Security because it is very interesting how computers .
-
+Computers are starting, if not already, being used in our everyday lives.
+Such as our cell phones, cars, laptop, etc.... 
 
 
 ### Experince
