@@ -3,14 +3,10 @@
 Hey, I am David D. and thank you for visiting my website!
 
 ### About Me
-```markdown
-
 * I am going to New York Institute of Technology (NYIT) and majoring
- in Computer Science with a focus of Cyber Security
-
-* I am a rising sophomore at NYIT  
-
-* I have basic programming skills
+ in Computer Science with a focus of Cyber Security <br>
+* I am a rising sophomore at NYIT <br>
+* I have basic programming skills <br>
 
 
 
