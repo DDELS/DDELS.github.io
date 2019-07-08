@@ -8,7 +8,7 @@ Hey, I am David D. and thank you for visiting my website!
 
 
 ### Why computer Science?
- * I want to study in computer science becuase I havea high interest in learning how
+ * I want to study in computer science becuase I have a high interest in learning how
  computer interact with other computers through the internet.
 
 
