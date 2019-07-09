@@ -13,9 +13,9 @@ Hey, I am David D. and thank you for visiting my website!
 
 
 ### Education
-* New York Institute of Technology, Manhattan, NY.......September 2018 - Present
-	* Bachelor's in computer Science with a focus in Cyber Security <br>
-* Mount Hebron High School, Ellicott City,MD............August 2014 - May 2018
+* New York Institute of Technology, Manhattan, NY <br> t
+	* Bachelor's in computer Science with a focus in Cyber Security
+* Mount Hebron High School <br> August 2014 - May 2018
 
 
 ### Experience
