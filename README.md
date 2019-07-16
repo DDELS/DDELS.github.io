@@ -19,12 +19,12 @@ Hey, I am David D. and thank you for visiting my website!
 
 ### Experience
 * **Intern, National Aeronautics and Space Administration, Washington D.C <br> June 2018 - August 2018**
-	*Assembled federal documents called Standard Operating Procure (SOP) such as: <br>
-	*SOP are documents for employees to follow that list in grave detail about how to approach certain procures: <br> 
-		* WarWalking SOP <br>
+	* Assembled federal documents called Standard Operating Procure (SOP) such as: <br>
+	* SOP are documents for employees to follow that list in grave detail about how to approach certain procures: <br> 
+		* WarWalking SOP
 		* Metric SOP 
 * Supported the Chief Information Security Officer
-*
+* 
 
 ### Volunteer Service
 
