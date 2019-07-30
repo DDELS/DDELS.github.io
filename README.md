@@ -44,12 +44,12 @@ Hey it's me, David, and thank you for visiting my website. I have a passion for 
 
 ### Volunteer Service
 
-	* **President, Alpha Achievers**
-		* Alpha Achievers is a club that gives back to the community and helps young men to hold a capable GPA, while learning what leadership is and being able to demonstrate it.
-			* Performed toubleshooting to raise money for a non-profit organization called Grass-Roots
-				* Grass-Roots help support people who are addicted to drugs or alcohol, people with low income, host a 24/7 suicidal hot line, etc...
-			* Revitalized a way to raise funds to help support the local floos that happen within our community
-			* Volunteer for soup kitchens and assisted with many 5K runs to help raise awareness for numerus different disorders and cancers
+* **President, Alpha Achievers**
+	* Alpha Achievers is a club that gives back to the community and helps young men to hold a capable GPA, while learning what leadership is and being able to demonstrate it.
+		* Performed toubleshooting to raise money for a non-profit organization called Grass-Roots
+			* Grass-Roots help support people who are addicted to drugs or alcohol, people with low income, host a 24/7 suicidal hot line, etc...
+		* Revitalized a way to raise funds to help support the local floos that happen within our community
+		* Volunteer for soup kitchens and assisted with many 5K runs to help raise awareness for numerus different disorders and cancers
 
 
 ### Skills
