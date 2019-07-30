@@ -1,10 +1,5 @@
 ## Welcome 
-
-Hey, I am David D. and thank you for visiting my website!
-
-### About Me
-* I am a rising sophomore at NYIT 
-* I have basic programming skills
+Hey it's me, David, and thank you for visiting my website. I have a passion for computers, thus why I am major in Computer Science.
 
 
 ### Why computer Science?
@@ -13,9 +8,9 @@ Hey, I am David D. and thank you for visiting my website!
 
 
 ### Education
-* New York Institute of Technology, Manhattan, NY <br> **September 2018 - Present**
+* *New York Institute of Technology*, Manhattan, NY <br> September 2018 - Present
 	* Bachelor's in computer Science with a focus in Cyber Security
-* **Mount Hebron High School** <br> **August 2014 - May 2018** 
+* *Mount Hebron High School* <br> August 2014 - May 2018 
 
 ### Experience
 * **Intern, National Aeronautics and Space Administration, Washington D.C <br> June 2018 - August 2018**
@@ -49,9 +44,16 @@ Hey, I am David D. and thank you for visiting my website!
 
 ### Volunteer Service
 
+	* **President, Alpha Achievers**
+		* Alpha Achievers is a club that gives back to the community and helps young men to hold a capable GPA, while learning what leadership is and being able to demonstrate it.
+			* Performed toubleshooting to raise money for a non-profit organization called Grass-Roots
+				*Grass-Roots help support people who are addicted to drugs or alcohol, people with low income, host a 24/7 suicidal hot line, etc...
+			* Revitalized a way to raise funds to help support the local floos that happen within our community
+			* Volunteer for soup kitchens and assisted with many 5K runs to help raise awareness for numerus different disorders and cancers
+
+
 ### Skills
-* Basic understanding of programing 
+* Basic understanding and concept of programing
 * Proficient Excel functions and Word function 
 * Ability to adapt/learn quicky
-
-
+* Outgoing 
