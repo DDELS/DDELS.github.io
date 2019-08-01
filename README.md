@@ -15,13 +15,13 @@ Hey it's me, David, and thank you for visiting my website. I have a passion for 
 ### Experience
 * **Intern, National Aeronautics and Space Administration, Washington D.C <br> June 2018 - August 2018**
 	* Assembled federal documents called Standard Operating Procure (SOP) such as: <br>
-	* SOP are documents for employees to follow that list in grave detail about how to approach certain procures: <br> 
-		* WarWalking SOP
-		* Metric SOP 
+		* SOP are documents for employees to follow that list in grave detail about how to approach certain procures: <br> 
+			* WarWalking SOP
+			* Metric SOP 
 	* Supported the Chief Information Security Officer
 	* Assisted ITCD with numerous assignment such as: <br>
 		* Planned WarWalking procure
-			*WarWalking is a procure that IT Security team does to scan NASA networks to assess if there is any threat on the network or if there is any unauthorize access points within the network 
+			* WarWalking is a procure that IT Security team does to scan NASA networks to assess if there is any threat on the network or if there is any unauthorize access points within the network 
 		* Addressed physical security access protocols
 		* Facilitated research for web content filter 
 		* Trained using a modify RSA Archer to support IT Security with metrics assessments, physical security access, and logical access (internet access)
