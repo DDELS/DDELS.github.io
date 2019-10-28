@@ -2,7 +2,7 @@
 Hey it's me, David, and thank you for visiting my website. I have a passion for computers, thus why I am major in Computer Science.
 
 ### Why computer Science?
-* I want to study in computer science becuase I have a high interest in learning how
+* I want to study in computer science because I have a high interest in learning how
  computer interact with other computers through the internet.
 	
 
