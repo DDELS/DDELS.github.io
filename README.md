@@ -2,12 +2,12 @@
 Hey it's me, David, and thank you for visiting my website. 
 ### Why computer Science?
 * I want to study in computer science because I have a high interest in learning how
- computer interact with other computers through the internet.
+ computer and sofware interact which one another
 	
 
 ### Education
 * *New York Institute of Technology*, Manhattan, NY <br> September 2018 - Present
-	* Bachelor's in computer Science with a focus in Cyber Security
+	* Bachelor's in computer Science with a focus in Network Security
 * *Mount Hebron High School* <br> August 2014 - May 2018 
 
 ### Experience
