@@ -2,7 +2,7 @@
 #container{
    display: flex; 
    flex-direction: column;
-   margin: 10;
+   margin: 5px;
 }
 #skillsContent{
     flex: 1;
@@ -12,11 +12,13 @@
     
 }
 #locationContent{
+    border: 5px;
     float: right;
     
 }
 #postionContent{
-    
+   float: left;
+   clear: left;
     
 }
 #companyContent{
@@ -24,10 +26,16 @@
     clear: left;
 }
 #timePeriod{
+    border: 5px;
     float: right;
     
 }
 
+
 .experince{
     flex: 1;
+}
+.listContent{
+    float: left;
+    clear: left;
 }
