@@ -1,8 +1,12 @@
-
+body{
+    background-color: blue;
+}
 #container{
    display: flex; 
    flex-direction: column;
-   margin: 5px;
+   background-color: darkgray;
+   padding: 5px;
+   margin: 10px;
 }
 #skillsContent{
     flex: 1;
@@ -12,18 +16,23 @@
     
 }
 #locationContent{
+    flex: 1;
     border: 5px;
     float: right;
     
+    
 }
 #postionContent{
+    flex: 1;
    float: left;
    clear: left;
+   font-weight: bold;
     
 }
 #companyContent{
     float: left;
     clear: left;
+    font-weight: bold;
 }
 #timePeriod{
     border: 5px;
