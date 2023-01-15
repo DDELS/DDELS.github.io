@@ -4,11 +4,28 @@
    flex-direction: column;
    margin: 10;
 }
-.skillsContent{
+#skillsContent{
     flex: 1;
 }
-.educationContent{
+#educationContent{
     flex: 1;
+    
+}
+#locationContent{
+    float: right;
+    
+}
+#postionContent{
+    
+    
+}
+#companyContent{
+    float: left;
+    clear: left;
+}
+#timePeriod{
+    float: right;
+    
 }
 
 .experince{
