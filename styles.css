@@ -5,8 +5,8 @@ body{
    display: flex; 
    flex-direction: column;
    background-color: darkgray;
-   padding: 5px;
-   margin: 10px;
+   padding: 10px;
+   margin: auto;
 }
 #skillsContent{
     flex: 1;
@@ -38,6 +38,20 @@ body{
     border: 5px;
     float: right;
     
+    
+}
+#picture{
+    float: right;
+    clear: right;
+}
+#projectListContent{
+    float: left;
+    clear: left; 
+    width: 75%;
+}
+h4{
+    float: left;
+    clear: left;
 }
 
 
@@ -47,4 +61,5 @@ body{
 .listContent{
     float: left;
     clear: left;
+    width: 75%;
 }
