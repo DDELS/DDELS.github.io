@@ -19,8 +19,8 @@ body{
     flex: 1;
     border: 5px;
     float: right;
-    
-    
+    width: max-content;
+
 }
 #postionContent{
     flex: 1;
@@ -37,6 +37,7 @@ body{
 #timePeriod{
     border: 5px;
     float: right;
+    width:max-content;
     
     
 }
