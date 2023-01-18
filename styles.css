@@ -38,7 +38,17 @@ h3{
     flex: .34;
     border: 2px solid black;
     text-align: center;
+} 
+a{
+    display:block;
 }
+ a:hover{
+    background-color: black;
+}
+a:hover:not(.active){
+    background-color: bisque;
+}
+
 #skillsContent{
     flex: 1;
 }
@@ -100,4 +110,8 @@ h3{
     
     max-width: 700px;
     font-size: 18px;
+}
+
+.active{
+    background-color: aquamarine;
 }
