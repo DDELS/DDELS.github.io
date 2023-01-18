@@ -3,6 +3,9 @@ Hey it's me, David, and thank you for visiting my website.
 ### Why computer Science?
 * I want to study in computer science because I have a high interest in learning how
  computer and sofware interact which one another
+
+ The Background Img. 
+ https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Fnature%2Fspace&psig=AOvVaw2sKwGr8xSuTt2c7vklPkLB&ust=1674102870449000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD26Kil0PwCFQAAAAAdAAAAABAI
 	
 
 ### Education
