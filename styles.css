@@ -1,6 +1,6 @@
 body{
    display: flex;
-   background-color: blue;
+   background-color: darkgray;
 }
 h3{
     float: left;
@@ -18,8 +18,9 @@ h3{
    
 }
 #navBar{
-    background-color: aqua;
+    /*background-color: aqua;*/
     display: flex;
+    
     
     
 }
@@ -27,25 +28,38 @@ h3{
     flex: .33;
     border: 2px solid black;
     text-align: center;
+    border-radius: 25px;
     
 }
 #navAbout{
     flex: .33;
     border: 2px solid black;
     text-align: center;
+    border-radius: 25px;
 }
 #navContact{
     flex: .34;
     border: 2px solid black;
     text-align: center;
+    border-radius: 25px;
 } 
 a{
     display:block;
+    font-weight: bold;
 }
- a:hover{
-    background-color: black;
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.active{
+    border-radius: 25px;
+    background-color: aquamarine;
 }
 a:hover:not(.active){
+    border-radius: 25px;
     background-color: bisque;
 }
 
@@ -61,6 +75,7 @@ a:hover:not(.active){
     border: 5px;
     float: right;
     clear: right;
+    font-size: 17px;
     width: max-content;
 
 }
@@ -81,6 +96,7 @@ a:hover:not(.active){
 #timePeriod{
     border: 5px;
     float: right;
+    font-size: 17px;
     width:max-content;
     
     
@@ -112,6 +128,3 @@ a:hover:not(.active){
     font-size: 18px;
 }
 
-.active{
-    background-color: aquamarine;
-}
