@@ -1,6 +1,7 @@
 body{
    display: flex;
-   background-color: darkgray;
+   background-color: blueviolet;
+   justify-content: center;
 }
 h3{
     float: left;
@@ -12,7 +13,10 @@ h3{
    background-color: darkgray;
    padding: 10px;
    margin: 5px;
-   width: 7000px;
+   width: max(75%, 850px);
+   
+   
+   
    
    
    
@@ -29,6 +33,7 @@ h3{
     border: 2px solid black;
     text-align: center;
     border-radius: 25px;
+    margin: 10px;
     
 }
 #navAbout{
@@ -36,12 +41,14 @@ h3{
     border: 2px solid black;
     text-align: center;
     border-radius: 25px;
+    margin: 10px;
 }
 #navContact{
     flex: .34;
     border: 2px solid black;
     text-align: center;
     border-radius: 25px;
+    margin: 10px;
 } 
 a{
     display:block;
@@ -109,7 +116,7 @@ a:hover:not(.active){
     float: left;
     clear: left; 
     width: 75%;
-    max-width: 700px;
+    max-width: 800px;
     font-size: 18px;
 }
 
@@ -123,8 +130,7 @@ a:hover:not(.active){
 .listContent{
     float: left;
     clear: left;
-    
-    max-width: 700px;
+    max-width: 800px;
     font-size: 18px;
 }
 
