@@ -3,6 +3,7 @@ body{
    background-color: darkgray;
    background-image: url("Stars.jfif");
    justify-content: center;
+   background-repeat: repeat;
 }
 h3{
     float: left;
