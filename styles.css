@@ -91,10 +91,14 @@ a:hover:not(.active){
 
 #skillsContent{
     flex: 1;
-    visibility: visible;
+    display: block;
+    
+    
 }
 #educationContent{
     flex: 1;
+    display: none;
+    
     
 }
 #locationContent{
@@ -139,7 +143,20 @@ a:hover:not(.active){
     max-width: 800px;
     font-size: 18px;
 }
+#experienceContent{
 
+    
+}
+#projectExperince{
+    
+}
+#otherExperince{
+    display: none;
+}
+#location:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
 
 
 .experince{
