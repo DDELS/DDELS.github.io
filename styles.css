@@ -143,6 +143,10 @@ a:hover:not(.active){
     max-width: 800px;
     font-size: 18px;
 }
+#location{
+    float: right;
+    clear: right;
+}
 #locationText{
     float:right;
 }
