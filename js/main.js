@@ -32,8 +32,7 @@ async function success(pos) {
     let accuracy = crd.accuracy;
     var dataUrl = "https://api.bigdatacloud.net/data/reverse-geocode-client?latitude=" +latitude+"&longitude="+longitude+"&localityLanguage=en";
 
-    location.innerHTML = "<b>Latitude/Longitude: </b>" + latitude + " / " + longitude + "<br> <b>Accuracy: </b>" + accuracy + " meter(s)";    
-    
+    location.innerHTML = "<br><b>Latitude/Longitude: </b>" + latitude + " / " + longitude + "<br><b>Accuracy: </b>" + accuracy + " meter(s)<br>";    
     let getJSON = new Promise(function(myResolve, myReject){
         let req = new XMLHttpRequest();
         req.open('GET',dataUrl);
@@ -65,7 +64,7 @@ function displayLocation(data){
     let location = document.getElementById("locationText");
     console.log(data);
     
-    location.innerHTML += "<br><b>Country:</b> "+ data.countryName +" (" + data.countryCode + ")" + "<br><b>State:</b> " + data.principalSubdivision + "<br><b>City: </b>"+ data.city + "<br><b>County: </b>" + data.locality + "<br><b>Zip-Code: </b>" + data.postcode + "</br>";
+    location.innerHTML += "<b>Country:</b> "+ data.countryName +" (" + data.countryCode + ")" + "<br><b>State:</b> " + data.principalSubdivision + "<br><b>City: </b>"+ data.city + "<br><b>County: </b>" + data.locality + "<br><b>Zip-Code: </b>" + data.postcode + "</br></div>"; 
 }
 
 

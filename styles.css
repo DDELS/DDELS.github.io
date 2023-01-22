@@ -144,11 +144,21 @@ a:hover:not(.active){
     font-size: 18px;
 }
 #location{
-    float: right;
-    clear: right;
+    float: left;
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 15px;
+    width:31.5%;
+    margin: 10px;
 }
 #locationText{
-    float:right;
+    float: left;
+    margin: 10px;
+    text-align: left;
+}
+#findLocationText{
+    
+
 }
 #experienceContent{
 
@@ -163,13 +173,12 @@ a:hover:not(.active){
 #location:hover{
     cursor: pointer;
     text-decoration: underline;
+    background-color: bisque;
 }
 
 
 .experince{
     flex: 1;
-    
-    
 }
 .listContent{
     float: left;
