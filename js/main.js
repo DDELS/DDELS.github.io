@@ -2,11 +2,11 @@
 
 function hideDivDisplay(id){
     let targetDiv = document.getElementById(id);
-    //console.log(targetDiv.style.display);
-    if(targetDiv.style.display == "" || targetDiv.style.display == "none" ){
-        targetDiv.style.display = "block";
+    console.log(targetDiv.style.display);
+    if(targetDiv.style.display == "" || targetDiv.style.display == "block"  ){
+        targetDiv.style.display = "none";
     }else {
-        targetDiv.style.display= "none";
+        targetDiv.style.display= "block";
     }
     
 }
