@@ -20,19 +20,11 @@ h3{
    width: max(75%, 850px);
    /*border: 1px dotted black;*/
   
-   
-   
-   
-   
-   
-   
 }
 #navBar{
     /*background-color: aqua;*/
     display: flex;
-    
-    
-    
+     
 }
 #navHome{
     flex: .33;
@@ -151,9 +143,11 @@ a{
     
     
 }
-#picture{
-    float: right;
-    clear: right;
+#questionContent{
+    margin: 10px;
+    width: 75%;
+    font-size: 18px;
+    display: none;
 }
 #projectListContent{
     float: left;
