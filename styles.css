@@ -9,6 +9,9 @@ h3{
     float: left;
     clear: left;
 }
+h2{
+    
+}
 #container{
    display: flex; 
    flex-direction: column;
@@ -78,7 +81,7 @@ a{
     float: left;
     clear: left;
     font-size: 17px;
-    width: 26%;
+    width: 20%;
     margin: 5px;
     
 }
