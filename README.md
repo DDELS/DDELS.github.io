@@ -1,19 +1,12 @@
 ## Welcome 
-Hey it's me, David, and thank you for visiting my website. 
-### Why computer Science?
-* I want to study in computer science because I have a high interest in learning how
- computer and sofware interact which one another
+Hey it's me, David, and thank you for visiting my site. Check out the files that make upp my site above!
+
 
  The Background Img. 
  https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Fnature%2Fspace&psig=AOvVaw2sKwGr8xSuTt2c7vklPkLB&ust=1674102870449000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD26Kil0PwCFQAAAAAdAAAAABAI
 	
 
-### Education
-* *New York Institute of Technology*, Manhattan, NY <br> September 2018 - Present
-	* Bachelor's in computer Science with a focus in Network Security
-* *Mount Hebron High School* <br> August 2014 - May 2018 
-
-### Experience
+<!-- ### Experience
 * **Intern, National Aeronautics and Space Administration, Washington D.C <br> June 2018 - August 2018**
 	* Assembled federal documents called Standard Operating Procure (SOP) such as: <br>
 		* SOP are documents for employees to follow that list in grave detail about how to approach certain procures: <br> 
@@ -57,4 +50,4 @@ Hey it's me, David, and thank you for visiting my website.
 * Basic understanding and concept of programming
 * Proficient Excel functions and Word function 
 * Ability to adapt/learn quicky
-* Outgoing 
+* Outgoing  -->

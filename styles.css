@@ -1,7 +1,7 @@
 body{
    display: flex;
    background-color: darkgray;
-   background-image: url("Stars.jfif");
+   background-image: url("img/Stars.jfif");
    justify-content: center;
    
 }
@@ -61,18 +61,37 @@ a{
     display:block;
     font-weight: bold;
 }
-a:link{
+#nav:link{
     text-decoration: none;
 }
-a:hover{
+#nav:hover{
     text-decoration: underline;
 }
-a:visited{
+#nav:visited{
     color: blue;
 }
 #button{
    
     
+}
+#emailText{
+    float: left;
+    clear: left;
+    font-size: 17px;
+    
+    margin: 5px;
+    
+}
+#gitHubLink{
+    float: left;
+    clear: left;
+    font-size: 17px;
+    width: 26%;
+    margin: 5px;
+    
+}
+#externalLink:hover{
+    text-decoration: underline;
 }
 #button:hover{
     text-decoration: underline;
@@ -84,7 +103,7 @@ a:visited{
     border-radius: 25px;
     background-color: aquamarine;
 }
-a:hover:not(.active){
+#nav:hover:not(.active){
     border-radius: 25px;
     background-color: bisque;
 }
