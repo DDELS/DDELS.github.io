@@ -3,7 +3,7 @@ body{
    background-color: darkgray;
    background-image: url("img/Stars.jfif");
    justify-content: center;
-   
+   min-width: 536px;
 }
 h3{
     float: left;
@@ -27,6 +27,7 @@ h2{
 #navBar{
     /*background-color: aqua;*/
     display: flex;
+    min-width: 536px;
      
 }
 #navHome{

@@ -1,10 +1,10 @@
 ## Welcome 
-Hey it's me, David, and thank you for visiting my site. Check out the files that make upp my site above!
+Hey it's me, David, and thank you for visiting my site. Check out the files that make up my site above!
 
 
- The Background Img. 
+ <!-- The Background Img. 
  https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fimages%2Fnature%2Fspace&psig=AOvVaw2sKwGr8xSuTt2c7vklPkLB&ust=1674102870449000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD26Kil0PwCFQAAAAAdAAAAABAI
-	
+	 -->
 
 <!-- ### Experience
 * **Intern, National Aeronautics and Space Administration, Washington D.C <br> June 2018 - August 2018**
