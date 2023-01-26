@@ -70,7 +70,7 @@ function displayLocation(data){
     let location = document.getElementById("locationText");
     const apiKey = "b790f47e51eb5d8765e95e8aa4cc1d2f";
     console.log("data...");
-    console.log(data.localityInfo);
+    console.log(data);
     
     location.innerHTML += "<b>Country:</b> "+ data.localityInfo.administrative[0].name +" (" + data.localityInfo.administrative[0].isoCode + ")" + "<br><b>State:</b> " + data.localityInfo.administrative[1].name + "<br><b>City: </b>"+ data.localityInfo.administrative[2].name + "<br><b>County: </b>" + data.localityInfo.administrative[3].name + "<br><b>Zip-Code: </b>" + data.postcode + "</br></div>"; 
     
