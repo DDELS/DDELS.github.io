@@ -21,11 +21,9 @@ h2{
    padding: 10px;
    margin: 5px;
    width: max(75%, 850px);
-   /*border: 1px dotted black;*/
-  
+   
 }
 #navBar{
-    /*background-color: aqua;*/
     display: flex;
     min-width: 536px;
      
@@ -65,10 +63,6 @@ a{
 }
 #nav:visited{
     color: blue;
-}
-#button{
-   
-    
 }
 #emailText{
     float: left;
@@ -114,7 +108,6 @@ a{
     flex: 1;
     display: none;
     
-    
 }
 #locationContent{
     flex: 1;
@@ -145,7 +138,6 @@ a{
     font-size: 17px;
     width:max-content;
     
-    
 }
 #questionContent{
     margin: 10px;
@@ -174,17 +166,7 @@ a{
     margin: 10px;
     text-align: left;
 }
-#findLocationText{
-    
 
-}
-#experienceContent{
-
-    
-}
-#projectExperince{
-    
-}
 #openweathermap-widget-21{
     float: right;
     margin: 10px;
@@ -197,8 +179,6 @@ a{
     text-decoration: underline;
     background-color: bisque;
 }
-
-
 .experince{
     flex: 1;
 }
