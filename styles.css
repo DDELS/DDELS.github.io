@@ -170,6 +170,7 @@ a{
 }
 #locationText{
     float: left;
+    
     margin: 10px;
     text-align: left;
 }
@@ -183,6 +184,10 @@ a{
 }
 #projectExperince{
     
+}
+#openweathermap-widget-21{
+    float: right;
+    margin: 10px;
 }
 #otherExperince{
     display: none;
