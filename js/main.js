@@ -94,7 +94,26 @@ function displayWeather(data){
 
 }
 
+function tempConverterF2C(val){
+    val = parseFloat(val);
+    document.getElementById("inputCelsius").value = (val - 32) / 1.8;
+    document.getElementById("inputKelvin").value = ((val - 32) / 1.8) + 273.15;
 
+
+}
+
+function tempConverterC2F(val){
+    val = parseFloat(val);
+    document.getElementById("inputFahrenheit").value =(val * 1.8) + 32;
+    document.getElementById("inputKelvin").value = val + 273.15;
+}
+
+function tempConverterK2F(val){
+    val = parseFloat(val);
+    document.getElementById("inputFahrenheit").value = ((val - 273.15) * 1.8) + 32;
+    document.getElementById("inputCelsius").value = val - 273.15;
+
+}
 
 
 

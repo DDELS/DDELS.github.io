@@ -2,13 +2,33 @@
 <html>
     <head>
         <link rel="stylesheet" href="styles.css">
+        <script type="text/javascript" src="js/main.js"></script>
 <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->    
     <meta name="author" content="David D.">
     </head>
     <body>
         <div id="container">
-            <h1>Utility/Web Apps</h1>
+            <h1>Portfolio</h1>
             <div id="navBar"> <div id="navHome"> <a id='nav' href="index.html" >Home</a></div> <div id="navAbout"> <a id='nav' href=aboutMe.html>About me</a></div> <div id="navContact"> <a id='nav' href="contactMe.html"> Contact Information</a></div> <div id="navPortfolio"> <a id='nav' class="active" href="portfolio.html"> Portfolio</a></div> </div> 
+
+
+           <h2 id="button" onclick="hideDivDisplay('tempConverter')">Temperature Converter</h2>
+           <div id="tempConverter">
+                <label>Fahrenheit</label>
+                <input id="inputFahrenheit" type="number" placeholder="Fahrenheit" oninput='tempConverterF2C(this.value)' onchange="tempConverterF2C(this.value)">
+                <label>Celsius</label>
+                <input id="inputCelsius" type="number" placeholder="Celsius" oninput='tempConverterC2F(this.value)' onchange="tempConverterC2F(this.value)">
+                <label>Kelvin</label>
+                <input id="inputKelvin" type="number" placeholder="Celsius" oninput='tempConverterK2F(this.value)' onchange="tempConverterK2F(this.value)">
+
+
+            
+
+           </div>
+            
+
+
+
         </div>
 
 
