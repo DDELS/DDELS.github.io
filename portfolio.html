@@ -15,18 +15,26 @@
            <h2 id="button" onclick="hideDivDisplay('tempConverter')">Temperature Converter</h2>
            <div id="tempConverter">
                 <label>Fahrenheit</label>
-                <input id="inputFahrenheit" type="number" placeholder="Fahrenheit" oninput='tempConverterF2C(this.value)' onchange="tempConverterF2C(this.value)">
+                <input id="inputFahrenheit" type="number" min="-459.66999999999996" placeholder="Fahrenheit" oninput='tempConverterF2C(this.value)' onchange="tempConverterF2C(this.value)">
                 <label>Celsius</label>
-                <input id="inputCelsius" type="number" placeholder="Celsius" oninput='tempConverterC2F(this.value)' onchange="tempConverterC2F(this.value)">
+                <input id="inputCelsius" type="number" min="-273.15" placeholder="Celsius" oninput='tempConverterC2F(this.value)' onchange="tempConverterC2F(this.value)">
                 <label>Kelvin</label>
-                <input id="inputKelvin" type="number" placeholder="Celsius" oninput='tempConverterK2F(this.value)' onchange="tempConverterK2F(this.value)">
-
-
-            
+                <input id="inputKelvin" type="number" min="0" placeholder="Kelvin" oninput='tempConverterK2F(this.value)' onchange="tempConverterK2F(this.value)">
 
            </div>
             
-
+           <h2 id="button" onclick="hideDivDisplay('speedConverter')">Speed Converter</h2>
+           <div id="speedConverter">
+                <label>MPH</label>
+                <input id="inputMPH" type="number" min="0" placeholder="MPH" oninput="speedConverterM2K(this.value)" onchange="speedConverterM2K(this.value)">
+                <label>KPH</label>
+                <input id="inputKPH" type="number" min="0" placeholder="KPH" oninput="speedConverterK2M(this.value)" onchange="speedConverterK2M(this.value)">
+                <label>Knots</label>
+                <input id="inputKnots" type="number" min="0" placeholder="Knots" oninput="speedConverterKn2M(this.value)" onchange="speedConverterKn2M(this.value)">
+                <label>Mach</label>
+                <input id="inputMach" type="number" min="0" placeholder="Mach" oninput="speedConverterMa2M(this.value)" onchange="speedConverterMa2M(this.value)">
+                
+           </div>
 
 
         </div>

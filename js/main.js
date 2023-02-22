@@ -98,8 +98,6 @@ function tempConverterF2C(val){
     val = parseFloat(val);
     document.getElementById("inputCelsius").value = (val - 32) / 1.8;
     document.getElementById("inputKelvin").value = ((val - 32) / 1.8) + 273.15;
-
-
 }
 
 function tempConverterC2F(val){
@@ -112,6 +110,41 @@ function tempConverterK2F(val){
     val = parseFloat(val);
     document.getElementById("inputFahrenheit").value = ((val - 273.15) * 1.8) + 32;
     document.getElementById("inputCelsius").value = val - 273.15;
+}
+
+function speedConverterM2K(val){
+    val = parseFloat(val);
+    document.getElementById("inputKPH").value = val * 1.609344;
+    document.getElementById("inputKnots").value = val / 1.150779;
+    document.getElementById("inputMach").value = val / 761.207;
+
+
+}
+
+function speedConverterK2M(val){
+    val = parseFloat(val);
+    document.getElementById("inputMPH").value = val / 1.609344;
+    document.getElementById("inputKnots").value = val / 1.852;
+    document.getElementById("inputMach").value = val / 1225.044;
+
+
+}
+
+function speedConverterKn2M(val){
+    val = parseFloat(val);
+    document.getElementById("inputMPH").value = val * 1.15078;
+    document.getElementById("inputKPH").value = val * 1.852;
+    document.getElementById("inputMach").value = val / 661.4708;
+
+
+}
+
+function speedConverterMa2M(val){
+    val = parseFloat(val);
+    document.getElementById("inputMPH").value = val * 761.207;
+    document.getElementById("inputKPH").value = val * 1225.044;
+    document.getElementById("inputKnots").value = val * 661.4708;
+
 
 }
 
